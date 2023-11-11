@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed-Bousrih
 - 👀 I’m interested in Competitive programming and software development
 - 🌱 I’m currently learning web development
-- 📫 Email me at ahmed1999bousrih@gmail.com
+- 📫 Email me at ahmed.bousrih@outlook.com
 -I am looking for internships
 
 <!---
