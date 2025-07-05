@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/ahmed-bousrih/"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="#" style="margin-left: 10px;">
+  <a href="https://ahmed-bousrih.github.io/Portfolio/" style="margin-left: 10px;">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=FF4136&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio button" />
   </a>
 </div>
@@ -17,7 +17,7 @@
 
 <p align="left">
 - 🔭 I'm a recent graduate software engineer<br>
-- 📚 Check out my portfolio <br>
+- 📚 Check out my <a href="https://ahmed-bousrih.github.io/Portfolio/"> portfolio </a> <br>
 - ⚡ I enjoy playing chess and other competitive games in my free time
 </p>
 
