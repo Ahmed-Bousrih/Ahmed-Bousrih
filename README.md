@@ -32,10 +32,10 @@
 ---
 
 ### 📄 My Resumés
-<a href="https://github.com/Ahmed-Bousrih/Ahmed-Bousrih/blob/main/Resume/Ahmed_Bousrih(ENG).pdf">
+<a href="https://github.com/Ahmed-Bousrih/Ahmed-Bousrih/blob/main/Resume/AhmedBousrih(ENG).pdf">
   <img src="https://img.shields.io/badge/English-PDF-blue?logo=adobeacrobatreader&style=for-the-badge" height="25" />
 </a>
-<a href="https://github.com/Ahmed-Bousrih/Ahmed-Bousrih/blob/main/Resume/Ahmed_Bousrih.pdf" style="margin-left:10px;">
+<a href="https://github.com/Ahmed-Bousrih/Ahmed-Bousrih/blob/main/Resume/AhmedBousrih(FR).pdf" style="margin-left:10px;">
   <img src="https://img.shields.io/badge/Français-PDF-red?logo=adobeacrobatreader&style=for-the-badge" height="25" />
 </a>
 
