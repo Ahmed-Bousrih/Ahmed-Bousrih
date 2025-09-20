@@ -97,7 +97,7 @@
 </div>
 
 #### 🛠️ Tools & Platforms
-<div align="center" style="display:flex; flex-wrap:wrap; align-items:center; gap:12px;">
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" title="GitLab"/> 
