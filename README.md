@@ -112,7 +112,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Bousrih&layout=compact&theme=default&hide=Makefile,HTML&count_private=true" width="350" alt="Top Languages" style="margin-bottom: 15px;" title="Language stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Bousrih&layout=compact&theme=github_dark&hide=Makefile,HTML&count_private=true" 
+    width="350" 
+    alt="Top Languages" 
+    style="margin-bottom: 15px;" 
+    title="Language stats"
+  />
 </div>
 
 ---
